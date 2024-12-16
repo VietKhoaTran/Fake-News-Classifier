@@ -3,6 +3,7 @@ The model is built using TensorFlow and Keras, employing a Recurrent Neural Netw
 with Long Short-Term Memory (LSTM) layers for text classification.
 
 Model Overview
+
 Data: The model uses a dataset of news articles where each article is labeled as either fake or real.
 
 Preprocessing: The text data (news article titles) is preprocessed by removing special characters, converting text to lowercase, stemming words, and removing stopwords.
